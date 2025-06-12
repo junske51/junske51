@@ -57,10 +57,7 @@ public class Junske51Profile {
 }
 ```
 
-</div>
-## ⚡ Tech Arsenal
 
-<div align="center">
 
 ### 🎯 Core Technologies
 

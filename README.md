@@ -4,15 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ke1e's%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- 动态打字效果 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎼+Orchestrating+Microservices+Symphonies;🌊+Navigating+the+Depths+of+Data+Architecture;🔮+Envisioning+Scalable+Digital+Ecosystems" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <h1>👨‍💻 junske51</h1>
+  <h3>Senior Backend Engineer & System Architect</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=FF6B6B&center=true&vCenter=true&width=500&lines=Code+is+Poetry,+Architecture+is+Art;Building+Scalable+Digital+Solutions;Passionate+about+Clean+Code" alt="Typing SVG" />
+</div>
 
 <!-- 个人介绍卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ke1e&custom_title=🔥+ke1e's+Code+Stats&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFA500&ring_color=FF6B6B" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=junske51
-&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FFA500&sideLabels=FFA500&currStreakNum=4ECDC4" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junske51&custom_title=🔥+junske51's+Code+Stats&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFA500&ring_color=FF6B6B" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=junske51&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FFA500&sideLabels=FFA500&currStreakNum=4ECDC4" width="400"/>
 </div>
 
 ---
@@ -22,7 +23,7 @@
 ```java
 @Component
 @RestController
-public class Ke1eProfile {
+public class Junske51Profile {
     
     @Value("${developer.status}")
     private String currentFocus = "Building scalable microservices architecture";
@@ -36,7 +37,7 @@ public class Ke1eProfile {
     @GetMapping("/developer/info")
     public DeveloperInfo getInfo() {
         return DeveloperInfo.builder()
-            .name("ke1e")
+            .name("junske51")
             .role("Senior Backend Engineer")
             .expertise("Enterprise Java Applications")
             .passion("Clean Code & System Design")
@@ -108,9 +109,9 @@ public class Ke1eProfile {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ke1e&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=FFA500&custom_title=🎨+Language+Distribution"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junske51&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=FFA500&custom_title=🎨+Language+Distribution"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ke1e&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFA500&area=true&hide_border=true&custom_title=📈+Contribution+Timeline"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=junske51&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFA500&area=true&hide_border=true&custom_title=📈+Contribution+Timeline"/>
 
 </div>
 
@@ -119,7 +120,7 @@ public class Ke1eProfile {
 ## 🏆 Achievement Unlocked
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ke1e&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=junske51&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
@@ -132,7 +133,7 @@ public class Ke1eProfile {
 <tr>
 <td width="50%">
 
-### 🌟 [Microservices Mall](https://github.com/ke1e/microservices-mall)
+### 🌟 [Microservices Mall](https://github.com/junske51/microservices-mall)
 *Enterprise-grade e-commerce microservices platform*
 
 ```java
@@ -147,13 +148,13 @@ public class Ke1eProfile {
 
 **Tech Stack:** `Spring Boot` `Spring Cloud` `MySQL` `Redis` `MQ`
 
-![Stars](https://img.shields.io/github/stars/ke1e/microservices-mall?style=social)
-![Forks](https://img.shields.io/github/forks/ke1e/microservices-mall?style=social)
+![Stars](https://img.shields.io/github/stars/junske51/microservices-mall?style=social)
+![Forks](https://img.shields.io/github/forks/junske51/microservices-mall?style=social)
 
 </td>
 <td width="50%">
 
-### 🔍 [Distributed Search Engine](https://github.com/ke1e/distributed-search)
+### 🔍 [Distributed Search Engine](https://github.com/junske51/distributed-search)
 *High-performance search system with ElasticSearch*
 
 ```java
@@ -167,8 +168,8 @@ public class Ke1eProfile {
 
 **Tech Stack:** `ElasticSearch` `Spring Boot` `Redis` `MySQL`
 
-![Stars](https://img.shields.io/github/stars/ke1e/distributed-search?style=social)
-![Forks](https://img.shields.io/github/forks/ke1e/distributed-search?style=social)
+![Stars](https://img.shields.io/github/stars/junske51/distributed-search?style=social)
+![Forks](https://img.shields.io/github/forks/junske51/distributed-search?style=social)
 
 </td>
 </tr>
@@ -183,8 +184,10 @@ public class Ke1eProfile {
 <div align="center">
 
 <!-- Wakatime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ke1e&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&custom_title=💻+Weekly+Coding+Activity"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=junske51&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&custom_title=💻+Weekly+Coding+Activity"/>
 
+<!-- 3D Contribution -->
+<img src="https://github.com/junske51/junske51/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -254,8 +257,8 @@ public class Ke1eProfile {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ke1e&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/ke1e?logo=github&style=for-the-badge&color=4ECDC4&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=junske51&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/junske51?logo=github&style=for-the-badge&color=4ECDC4&labelColor=000000)
 
 **💎 "Great software is built by great teams, but great code is crafted by passionate individuals"**
 

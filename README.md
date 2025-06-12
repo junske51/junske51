@@ -5,7 +5,7 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👨‍💻+Backend+Architecture+Wizard;🚀+Java+%26+Spring+Ecosystem+Expert;☁️+Microservices+%26+Cloud+Native+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💭+Code+is+Poetry%2C+Architecture+is+Art;🌱+Building+Tomorrow's+Digital+Foundation;🎯+Crafting+Elegant+Solutions+with+Purpose" alt="Typing SVG" />
 </h1>
 
 <!-- 个人介绍卡片 -->
@@ -185,8 +185,6 @@ public class Ke1eProfile {
 <!-- Wakatime Stats -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ke1e&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&custom_title=💻+Weekly+Coding+Activity"/>
 
-<!-- 3D Contribution -->
-<img src="https://github.com/ke1e/ke1e/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 

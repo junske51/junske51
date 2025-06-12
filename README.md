@@ -5,7 +5,7 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💭+Code+is+Poetry%2C+Architecture+is+Art;🌱+Building+Tomorrow's+Digital+Foundation;🎯+Crafting+Elegant+Solutions+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎼+Orchestrating+Microservices+Symphonies;🌊+Navigating+the+Depths+of+Data+Architecture;🔮+Envisioning+Scalable+Digital+Ecosystems" alt="Typing SVG" />
 </h1>
 
 <!-- 个人介绍卡片 -->

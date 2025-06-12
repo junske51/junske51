@@ -20,20 +20,31 @@
 
 ## 🛡️ Current Mission
 
+<div align="left">
+
+### 👨‍💻 Developer Profile
+
 ```java
 @Component
 @RestController
 public class Junske51Profile {
     
+    // 🎯 What I'm focused on right now
     @Value("${developer.status}")
     private String currentFocus = "Building scalable microservices architecture";
     
+    // 📚 Technologies I'm currently mastering
     @Value("${developer.learning}")
     private String[] learningStack = {"Kubernetes", "Service Mesh", "Event Sourcing"};
     
+    // 🤝 Always open to collaborate on
     @Value("${developer.collaboration}")
     private String openTo = "Open source projects & distributed systems";
-    
+```
+
+### 🔍 Get My Info
+
+```java
     @GetMapping("/developer/info")
     public DeveloperInfo getInfo() {
         return DeveloperInfo.builder()
@@ -46,8 +57,7 @@ public class Junske51Profile {
 }
 ```
 
----
-
+</div>
 ## ⚡ Tech Arsenal
 
 <div align="center">
